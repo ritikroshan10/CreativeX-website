@@ -120,7 +120,7 @@ const Home = () => {
         </div>
       </div>
 
-      {/* ====================== Final call To Action Section ====================== */}
+      {/* ======================move to contact====================== */}
       <div className="text-center space-y-4">
         <h2 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
           Ready to Transform Your Brand?
